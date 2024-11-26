@@ -44,7 +44,6 @@ Medical image segmentation is crucial for identifying tumors, lesion boundaries,
 ### Results
 - **Preliminary Results**:
   - Effective boundary segmentation achieved.
-  - Average confidence score of **0.42** (threshold: **0.50**).
 - **Visualization**:
   - Segmentation masks color-coded for organ identification.
   - Statistical analysis of organ diversity and area coverage.
