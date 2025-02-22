@@ -1,4 +1,4 @@
-# Medical Image Segmentation using Deep Learning
+#  MedCAM: A Hybrid Model For Medical Image Segmentation 
 
 # Abstract 
  Medical image segmentation plays a very important role in clinical diagnosis for exact identification of
