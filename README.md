@@ -23,7 +23,7 @@ We used the following datasets for training and evaluation:
 - **Synapse Multi-Organ Segmentation** dataset
 
 ## DATA SELECTION AND SAMPLING
- We have explored the Synapse 1 multi-organ dataset for this
+ We have explored the Synapse multi-organ dataset for this
  research. This dataset offers a comprehensive collection of
  medical images which allows our model to learn and segment
  images effectively. The dataset contains 3D medical images
